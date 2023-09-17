@@ -17,3 +17,9 @@ MFC App - Pizza Ordering System - C++ / Object Oriented Programming
 ![image](https://user-images.githubusercontent.com/83605505/170798820-a2024a91-4ebd-41ee-9978-9144ce5f1d48.png)
 
 ![image](https://user-images.githubusercontent.com/83605505/170798852-e5555783-6acf-49b9-ad20-20f3d811da37.png)
+
+***
+
+✉️ [bstasb@gmail.com](url)  
+💿 https://github.com/StasBratanich  
+🖥️ https://www.linkedin.com/in/stas-bratanich-computer-science/  
